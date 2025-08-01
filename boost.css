@@ -1,0 +1,26 @@
+ body {
+   font-family: 'Poppins', sans-serif;
+   background-color: #f8f9fa;
+ }
+
+ .abcd {
+   background: url('./form_bg.jpg') no-repeat center center/cover;
+ }
+
+ #ab, #cd, #ef, #gh {
+    background-color: gray;
+   
+    color: white;
+ } 
+ .card-body{
+  padding: 0 !important;
+ }
+ .klm{
+  transform: rotate(15deg);
+ }
+ 
+@media (max-width: 576px) {
+  .ttt {
+    font-size: 0.9rem; 
+  }
+}
