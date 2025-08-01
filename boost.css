@@ -18,6 +18,42 @@
  .klm{
   transform: rotate(15deg);
  }
+ .www{
+  border-left: 25px solid gray;
+  border-right: 25px solid gray;
+ }
+ .cvc{
+  font-size: 35px;
+ }
+ .vvv{
+  font-size: 20px;
+  font-weight: 700;
+ }
+ div h4{
+  font-size: 25px;
+  font-weight: 600;
+  color: rgb(92, 85, 85);
+ }
+  .ppp {
+display: flex !important;
+     color: #f8f9fa !important;
+     text-decoration: none !important;
+  
+     justify-content: end !important;
+
+ }
+ .lll{
+  color: gray;
+  opacity: 0.8;
+ }
+ 
+ div p{
+  color: rgb(90, 86, 86);
+ }
+ div h5{
+  font-size: 25px;
+  color: rgb(65, 62, 62);
+ }
  
 @media (max-width: 576px) {
   .ttt {
