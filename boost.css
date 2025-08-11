@@ -29,13 +29,14 @@
   font-size: 20px;
   font-weight: 700;
  }
+ 
  div h4{
   font-size: 25px;
   font-weight: 600;
   color: rgb(92, 85, 85);
  }
   .ppp {
-display: flex !important;
+ display: flex !important;
      color: #f8f9fa !important;
      text-decoration: none !important;
   
@@ -53,6 +54,9 @@ display: flex !important;
  div h5{
   font-size: 25px;
   color: rgb(65, 62, 62);
+ }
+ button{
+  background-color: brown !important; 
  }
  
 @media (max-width: 576px) {
